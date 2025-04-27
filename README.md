@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m Yanlin Li, a master student majoring in artificial intelligence at National University of Singapore.
-- 🌱 My research interets are multi-LLM reasoning and ai for cognitive science. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Feel free to reach out me by: yanlin.li@u.nus.edu (preferred), anthony.yl.li@outlook.com.
+- 🔭 I’m Yanlin Li, a master student majoring in Artificial Intelligence at National University of Singapore.
+- 🌱 My research interets are multi-LLMs reasoning and AI for cognitive sciences (psychology or cognitive linguistics). 
+- 👯 I’m looking to collaborate on multi-LLMs and other cognitive sciences or social sciences.
+- 📫 My mails: yanlin.li@u.nus.edu (preferred), anthony.yl.li@outlook.com.
