@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m Yanlin Li, a master student majoring in Artificial Intelligence at National University of Singapore.
 - 🌱 My research interests are multi-modal LLMs reasoning and AI for cognitive sciences (psychology or cognitive linguistics). 
 - 👯 I’m looking to collaborate on multi-modal LLMs and other cognitive sciences or social sciences.
-- 📫 My mails: yanlin.li@u.nus.edu (preferred), anthony.yl.li@outlook.com.
+- 📫 My mails: yanlin.li@u.nus.edu (preferred), yanlin.lyl@outlook.com.
 
 ## 🔰 Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liyanlin06)
