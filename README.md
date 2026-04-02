@@ -1,4 +1,4 @@
-## 👋 Hi there
+## 👋 Hi, I'm Yanlin Li
 
 <!--
 **liyanlin06/liyanlin06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m Yanlin Li, a master student majoring in Artificial Intelligence at National University of Singapore.
-- 🌱 My research interests are multi-modal LLMs reasoning and AI for cognitive sciences (psychology or cognitive linguistics). 
-- 👯 I’m looking to collaborate on multi-modal LLMs and other cognitive sciences or social sciences.
-- 📫 My mails: yanlin.li@u.nus.edu (preferred), yanlin.lyl@outlook.com.
+🔭 Master student at National University of Singapore.
 
-## 🔰 Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liyanlin06)
+📫 Contact: yanlin.li@u.nus.edu (preferred), yanlin.lyl@outlook.com.
+
+🌐 Website: https://liyanlin06.github.io/
+
+
+## 🧠 About Me
+
+I believe that the development of technology should always be human-centered, and my long-term research goal is to build **Human-Centered AGI** from the perspective of intelligence, cognition, and interaction.
+Specifically, my research focuses on unified multimodal models, understanding and generation, and world modeling.
+
+## ⭐ Open & Curated Collections
+- **Awesome-Any-to-Any-Generation** - curated resources of [Any-to-Any Intelligence](https://github.com/any2any-mllm/awesome-any2any)
