@@ -29,3 +29,4 @@ Specifically, my research focuses on unified multimodal models, understanding an
 
 ## ⭐ Open & Curated Collections
 - **Awesome-Any-to-Any-Generation** - curated resources of [Any-to-Any Intelligence](https://github.com/any2any-mllm/awesome-any2any)
+- **Awesome-Theory-of-Mind-LLMs** - curated resources of [Theory of Mind for LLMs](https://github.com/liyanlin06/Awesome-Theory-of-Mind-LLMs)
