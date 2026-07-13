@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Master student at National University of Singapore.
+🔭 Ph.D. student in Computer Science at National University of Singapore.
 
 📫 Contact: yanlin.li@u.nus.edu (preferred), yanlin.lyl@outlook.com.
 
